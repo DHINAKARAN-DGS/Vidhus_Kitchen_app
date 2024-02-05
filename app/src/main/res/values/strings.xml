@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Nithya Medicals</string>
+    <string name="logo">LOGO</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="in_need_of_medicine">In need of Medicine?</string>
+    <string name="title_activity_image_view">ImageViewActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
